@@ -52,9 +52,14 @@ More on [farhan-adiyasa.site](https://farhan-adiyasa.site) (incl. RLOG Express s
 
 ### GitHub snapshot
 
+<!-- Official vercel.app instance often 503; using community mirror -->
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FarhanAdiyasa&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Farhan GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAdiyasa&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/FarhanAdiyasa">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FarhanAdiyasa&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="Farhan GitHub stats" />
+  </a>
+  <a href="https://github.com/FarhanAdiyasa">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarhanAdiyasa&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  </a>
 </p>
 
 ---
