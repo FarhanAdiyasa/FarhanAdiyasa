@@ -1,83 +1,59 @@
-# Hi, I'm Farhan Adiyasa 👋
+# Farhan Adiyasa
 
-### Software Engineer · Enterprise Backend, Distributed Systems & Agentic AI
-**Jakarta / Remote** · [Portfolio](https://farhan-adiyasa.site) · [LinkedIn](https://www.linkedin.com/in/farhan-adiyasa) · [Email](mailto:adiyasaa56@gmail.com)
+Fullstack and backend software engineer based in Jakarta, Indonesia. Currently building the IT helpdesk platform, Spring Boot microservices, and Laravel API gateway at PT PAM Jaya.
 
----
+Previously built production systems at PT Akebono Brake Astra Indonesia and PT Astra Honda Motor. Focused on Clean Architecture, distributed systems reliability, and autonomous agent workflows.
 
-> *"Code is an opinion; runtime execution, zero regressions, and failure-mode resilience are the truth."*
-
-I design and build high-reliability backend services, distributed API gateways, and autonomous agentic workflows. My background spans heavy manufacturing operations with **Astra Group** (Akebono Brake Astra, Astra Honda Motor), municipal public utility scale at **PT PAM Jaya**, and applied multi-modal AI systems.
+[Website](https://farhan-adiyasa.site) · [LinkedIn](https://www.linkedin.com/in/farhan-adiyasa) · [GitHub](https://github.com/FarhanAdiyasa) · [Email](mailto:adiyasaa56@gmail.com)
 
 ---
 
-### ⚡ Engineering Mindset & Invariants
+## Experience and impact
 
-- **Evidence Decides**: Happy-path tests are superficial. I prioritize cold runtime verification, edge-case failure audits, and deterministic behavior under distributed loads.
-- **Clean Architecture & Domain Isolation**: High cohesion, decoupled infrastructure. Core business logic stays strictly isolated from frameworks, databases, and external I/O (Use-Case Driven).
-- **Agentic Leverage & Systems Automation**: Harnessing autonomous multi-agent pipelines, custom execution skills, and deterministic tool loops to multiply engineering throughput while keeping strict verification ladders.
-- **Zero Retail Slop**: Clear ownership, high signal-to-noise codebases, and systems that engineering teams actually depend on in production.
-
----
-
-### 🏢 Proven Enterprise Impact
-
-| Metric / Result | System & Architectural Context | Organization |
+| Organization | Role & System | Outcome |
 | :--- | :--- | :--- |
-| **Municipal Scale** | Architecting core IT Helpdesk services (Spring Boot) & API Gateway (Laravel) + KPI telemetry | **PT PAM Jaya DKI Jakarta** |
-| **+60%** Project Tracking Efficiency | Clean Architecture Project Management System (Use-Case Oriented approach) | **PT Akebono Brake Astra** |
-| **20–40s** Faster Authentication | Full system migration (PHP 5 / MySQL → PHP 8 / PostgreSQL) with enterprise SSO AAIJ | **PT Akebono Brake Astra** |
-| **−30%** Order Processing Latency | Automated vendor order management platform with Spring Boot & SLA dispatch | **PT Astra Honda Motor** |
-| **+30%** Telemetry Efficiency | Native Android (Kotlin) driver logistics & dispatch platform | **PT Akebono Brake Astra** |
-| **+40%** Milestone Tracking | NPD & mold manufacturing operational workflow management | **PT Super Sinar Abadi** |
+| **PT PAM Jaya** | Fullstack Developer (Current) | Core IT Helpdesk backend (Spring Boot), API Gateway (Laravel), and municipal KPI transaction modules. |
+| **PT Akebono Brake Astra** | Fullstack Developer | Clean Architecture project management system (+60% tracking efficiency, -40% assignment delay). |
+| **PT Akebono Brake Astra** | Fullstack Developer | Migrated helpdesk from PHP 5/MySQL to PHP 8/PostgreSQL with SSO integration (20-40s faster login). |
+| **PT Akebono Brake Astra** | Mobile Developer | Android (Kotlin) driver telemetry and dispatch app (+30% operational efficiency). |
+| **PT Astra Honda Motor** | Fullstack Developer | Spring Boot vendor order platform (-30% order processing time, automated notifications). |
+| **PT Super Sinar Abadi** | Fullstack Developer | NPD and mold manufacturing tracking system (+40% milestone tracking). |
 
 ---
 
-### 🛠️ Technical Arsenal
+## Projects
 
-- **Backend & Core Services:** Java (Spring Boot), PHP 8 (Laravel), Go, TypeScript (Node.js / NestJS)
-- **Architecture & Infrastructure:** Clean Architecture, Microservices, API Gateway, Docker, PostgreSQL, MySQL, Redis, Linux / VPS
-- **Agentic Engineering & AI:** Autonomous Agent Orchestration, Agent Skills (`SKILL.md`), Headless CDP Automation, LangChain, FAISS, LLM API Systems
-- **Frontend & Web Platform:** TypeScript, React, Next.js, Tailwind CSS
-
----
-
-### 🚀 Featured Systems & Projects
-
-| Project | Domain | Architecture & Core Tech |
-| :--- | :--- | :--- |
-| **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)** | AI DevTools | Evaluates GitHub tech stacks for deprecation, technical debt, and provides actionable modernization roadmaps. *(Next.js, Gemini AI)* |
-| **[Natixis Multi-Modal AI Engine](https://github.com/FarhanAdiyasa)** | Speech & NLP | 3rd Winner @ Natixis Hackathon 2024. Low-latency speech-to-text, LLM linguistic correction, and TTS audio synthesis. *(Whisper, GPT, TTS-1)* |
-| **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)** | Civic Data Engine | Reality-check calculator benchmarking regional living costs against actual teacher compensation data across Indonesia. |
-| **[Ideally](https://github.com/FarhanAdiyasa/Ideally)** | Enterprise CMS | Landscaping operational platform integrating content management, SEO optimization (+30%), and sales analytics. *(Laravel)* |
-
-*Note: Enterprise ERP, Helpdesk, and manufacturing execution systems at PAM Jaya, Akebono Astra, and Astra Honda Motor are proprietary.*
+- **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)** — Scans GitHub repositories for outdated dependencies and technical debt, then generates modernization roadmaps. Built with Next.js and Gemini API.
+- **[Natixis Multi-Modal AI Engine](https://github.com/FarhanAdiyasa)** — 3rd place at the 2024 Natixis Hackathon. Speech-to-text, grammar correction, and text-to-speech pipeline using Whisper and GPT.
+- **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)** — Civic data tool comparing regional teacher salaries against provincial living costs in Indonesia.
+- **[Ideally](https://github.com/FarhanAdiyasa/Ideally)** — CMS and operational management platform for landscaping operations with sales analytics. Built with Laravel.
 
 ---
 
-### 🎓 Academic Honors & Global Exposure
+## Technical stack
 
-- **Astra Polytechnic** — Informatics Management (GPA: **3.82 / 4.00**, Astra industrial standards)
-- **Polytechnic University of Porto (ISEP, Portugal)** — Electrical & Computing Engineering (*Fully Funded IISMA Scholar*)
-- **Natixis Hackathon 2024** — **3rd Place Winner** (International corporate & investment banking hackathon)
+- **Languages:** Java, PHP, TypeScript, Go, Python
+- **Backend & Architecture:** Spring Boot, Laravel, NestJS, Clean Architecture, REST APIs, API Gateway
+- **Datastores & Infra:** PostgreSQL, MySQL, Redis, Docker, Linux/VPS
+- **Agentic & AI Tooling:** Autonomous agent orchestration, custom agent skills, CDP browser automation, LangChain
 
 ---
 
-### 📊 Live GitHub Activity
+## Education and honors
+
+- **Astra Polytechnic** — Informatics Management (GPA 3.82 / 4.00)
+- **Polytechnic University of Porto (ISEP, Portugal)** — Electrical and Computing Engineering (IISMA fully funded scholarship, 2024)
+- **Natixis Hackathon 2024** — 3rd Place
+
+---
+
+## GitHub stats
 
 <p align="left">
   <a href="https://github.com/FarhanAdiyasa">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=FarhanAdiyasa&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Farhan's GitHub Stats" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=FarhanAdiyasa&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Farhan's GitHub Stats" />
   </a>
   <a href="https://github.com/FarhanAdiyasa">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAdiyasa&layout=compact&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAdiyasa&layout=compact&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
   </a>
 </p>
-
----
-
-### 📬 Connect & Collaborate
-
-- **Website / Portfolio**: [farhan-adiyasa.site](https://farhan-adiyasa.site)
-- **LinkedIn**: [linkedin.com/in/farhan-adiyasa](https://www.linkedin.com/in/farhan-adiyasa)
-- **Direct Inquiries**: [adiyasaa56@gmail.com](mailto:adiyasaa56@gmail.com)
