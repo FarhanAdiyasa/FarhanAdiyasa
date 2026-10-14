@@ -6,7 +6,7 @@ Fullstack and backend software engineer based in Jakarta, Indonesia. Building ba
   <a href="https://farhan-adiyasa.site"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/farhan-adiyasa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adiyasaa56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://pamjaya.co.id"><img src="https://img.shields.io/badge/PAM_JAYA-005baa?style=flat-square&logo=droplet&logoColor=white" alt="PAM JAYA" /></a>
+  <a href="https://pamjaya.co.id" title="PAM JAYA"><img src="./pamjaya-icon.png" height="20" alt="PAM JAYA" style="vertical-align: middle;" /></a>
 </p>
 
 ---
