@@ -1,6 +1,8 @@
 # Farhan Adiyasa
 
-Building backend systems and autonomous agent workflows.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=60A5FA&background=0D111700&vCenter=true&width=550&lines=Building+backend+systems;Autonomous+agent+workflows;Exploring+deterministic+execution+loops" alt="Typing SVG" />
+</p>
 
 <p>
   <a href="https://farhan-adiyasa.site"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -12,10 +14,17 @@ Building backend systems and autonomous agent workflows.
 
 ### Selected projects
 
-- **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)** — Scans repositories to evaluate tech stack deprecation and upgrade paths. Built with Next.js and Gemini API.
-- **[Natixis AI Engine](https://github.com/FarhanAdiyasa)** — Speech-to-text, grammar correction, and text-to-speech pipeline. 3rd place at the 2024 Natixis Hackathon.
-- **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)** — Data tool comparing regional teacher salaries against provincial living costs in Indonesia.
-- **[Ideally](https://github.com/FarhanAdiyasa/Ideally)** — CMS and operational management platform for landscaping operations with sales analytics.
+- **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)** `Next.js` `Gemini AI`  
+  Scans repositories to evaluate tech stack deprecation and upgrade paths.
+
+- **[Natixis AI Engine](https://github.com/FarhanAdiyasa)** `Whisper` `GPT` `Hackathon 3rd`  
+  Speech-to-text, grammar correction, and text-to-speech audio pipeline.
+
+- **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)** `Data Product` `Civic Tech`  
+  Data tool comparing regional teacher salaries against provincial living costs in Indonesia.
+
+- **[Ideally](https://github.com/FarhanAdiyasa/Ideally)** `Laravel` `CMS`  
+  Operational management and educational platform with integrated sales analytics.
 
 ---
 
