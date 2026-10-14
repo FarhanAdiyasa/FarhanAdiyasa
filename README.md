@@ -4,7 +4,11 @@ Fullstack and backend software engineer based in Jakarta, Indonesia. Building ba
 
 Currently Fullstack Developer at PT PAM Jaya.
 
-[Website](https://farhan-adiyasa.site) · [LinkedIn](https://www.linkedin.com/in/farhan-adiyasa) · [GitHub](https://github.com/FarhanAdiyasa) · [Email](mailto:adiyasaa56@gmail.com)
+<p>
+  <a href="https://farhan-adiyasa.site"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/farhan-adiyasa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:adiyasaa56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -19,7 +23,10 @@ Currently Fullstack Developer at PT PAM Jaya.
 
 ## Stack
 
-- **Languages:** Java, PHP, TypeScript, Go, Python
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,go,ts,react,nextjs,postgres,mysql,redis,docker,linux,git" alt="Tech Stack" />
+</p>
+
 - **Backend & Architecture:** Spring Boot, Laravel, NestJS, Clean Architecture, REST APIs
 - **Datastores & Infra:** PostgreSQL, MySQL, Redis, Docker, Linux
 - **AI & Automation:** Autonomous agent workflows, custom agent skills, browser automation
