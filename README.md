@@ -1,8 +1,6 @@
 # Farhan Adiyasa
 
-Tinkering with autonomous agent workflows, distributed backends, and capital markets.
-
-Currently engineering backend services at PT PAM Jaya, previously Astra Group (Akebono, Honda). When I'm not writing Java, Go, or PHP, I'm usually building deterministic agent loops or stress-testing investment theses.
+Building backend systems and autonomous agent workflows.
 
 <p>
   <a href="https://farhan-adiyasa.site"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -12,12 +10,12 @@ Currently engineering backend services at PT PAM Jaya, previously Astra Group (A
 
 ---
 
-### Current rabbit holes & projects
+### Selected projects
 
-- **Autonomous Agent Workflows**: Custom agent skills, headless browser automation, and deterministic verification loops (moving past raw chat prompts).
-- **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)**: Scans repos to evaluate tech stack deprecation and upgrade paths.
-- **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)**: Regional living costs vs teacher salary data in Indonesia.
-- **[Natixis AI Engine](https://github.com/FarhanAdiyasa)**: Speech-to-text & correction pipeline (3rd place Natixis Hackathon).
+- **[Fomo Tech Generator](https://github.com/FarhanAdiyasa/FomoTechGenerator)** — Scans repositories to evaluate tech stack deprecation and upgrade paths. Built with Next.js and Gemini API.
+- **[Natixis AI Engine](https://github.com/FarhanAdiyasa)** — Speech-to-text, grammar correction, and text-to-speech pipeline. 3rd place at the 2024 Natixis Hackathon.
+- **[Guru Kita](https://github.com/FarhanAdiyasa/Guru-Kita)** — Data tool comparing regional teacher salaries against provincial living costs in Indonesia.
+- **[Ideally](https://github.com/FarhanAdiyasa/Ideally)** — CMS and operational management platform for landscaping operations with sales analytics.
 
 ---
 
